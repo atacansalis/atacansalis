@@ -1,3 +1,3 @@
 Hello GitHub World
 
-## Bio: Live in the Bay, enjoy coding for fun
+## Bio: Live in the Bay, enjoy coding for fun!
